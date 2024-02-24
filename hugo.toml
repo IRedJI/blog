@@ -1,0 +1,6 @@
+baseURL = 'https://grimbox.be'
+languageCode = 'fr-fr'
+defaultContentLanguage = 'fr'
+title = 'RedJ Blog'
+
+theme = 'blowfish'

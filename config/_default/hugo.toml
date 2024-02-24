@@ -1,0 +1,6 @@
+
+[frontmatter]
+  date = [':filename', ':default']
+
+[outputs]
+   home = [ "HTML", "JSON" ]

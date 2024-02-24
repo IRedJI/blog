@@ -1,0 +1,9 @@
+colorScheme = "blowfish"
+
+enableCodeCopy = true
+enableSearch = true
+
+article.relatedContentLimit = 5
+article.showRelatedContent = true
+article.showTableOfContents = true
+article.showTaxonomies = true

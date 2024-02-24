@@ -1,0 +1,37 @@
+# config/_default/menus.toml
+
+[[main]]
+  name = "BD"
+  url = "/BD"
+  weight = 5
+
+[[main]]
+  name = "Cinéma"
+  url = "/cinema"
+  weight = 10
+
+[[main]]
+  name = "informatique"
+  url = "/informatique"
+  weight = 30
+
+[[main]]
+  name = "Musique"
+  url = "/musique"
+  weight = 40
+
+[[main]]
+  name = "Sport"
+  url = "/sport"
+  weight = 50
+
+[[main]]
+  identifier = "github"
+  pre = "github"
+  url = "https://sources.grimbox.be"
+  weight = 60
+
+[[main]]
+  name = "Shaarli"
+  url = "https://shaarli.grimbox.be"
+  weight = 70
