@@ -46,7 +46,7 @@ Et s'il vous résiste, vous pouvez forcer la suppression en ajoutant le paramèt
     tlmgr remove --force <pkg>
 ```
 
-## Scheme
+## Les schémas
 Pour LaTeX il y a trois type de packages : les *packages*, les *collections* et les *schémas*.
 Un schéma est un ensemble global de collections de packages.
 Une collection se compose d'un ou plusieurs packages.
