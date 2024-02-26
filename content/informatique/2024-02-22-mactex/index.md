@@ -1,12 +1,12 @@
 +++
 title = 'MacTeX et compagnie…'
 date = 2024-02-22T19:01:58+01:00
-draft = true
+draft = false
 +++
 
 ## MacTeX et compagnie…
 
-A la lecture de l'article de la [Boîte à Grimoire](https://grimbox.be/technologeek/code/asciidoctor-vs-markdown-vs-latex/#the-top), je me dis qu'il serait bon d'aller plus loin concernant LaTeX.
+A la lecture de l'article de la [Boîte à Grimoire](https://grimbox.be/technologeek/code/asciidoctor-vs-markdown-vs-latex/#the-top), je me dis qu'il serait bon d'aller plus loin concernant la discussion sur LaTeX.
 Il me semble questionnable de comparer Asciidoctor, LaTeX et Markdown. Pour moi, ces trois environnements de production écrite ne visent pas le même plublique ni les mêmes utilisateurs. L’utilisation de Markdown se prête-t-elle à l’écriture d’articles ou de mémoires scientifiques ? Pas sûr. A l’inverse, est-il opportun d’utiliser LaTeX pour présenter une idée à ses collègues ou faire un résumé du dernier roman qui nous a plu ? Pas sûr non plus.
 
 Par contre, Grim et moi nous rejoignons sans doute sur le fait que Word est parfaitement dispensable !
