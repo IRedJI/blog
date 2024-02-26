@@ -4,3 +4,6 @@ enableCodeCopy = true
 enableSearch = true
 
 article.showTableOfContents = true
+article.relatedContentLimit = 5
+article.showRelatedContent = true
+article.showTaxonomies = true
