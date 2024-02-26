@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>RedJ&#39;s Blog</title>
-    <link>http://localhost:1313/</link>
+    <link>https://grimbox.be/</link>
     <description>Recent content on RedJ&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <copyright>© 2024 </copyright>
-    <lastBuildDate>Thu, 22 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://grimbox.be/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>MacTeX et compagnie…</title>
-      <link>http://localhost:1313/informatique/mactex/</link>
+      <title>MacTeX</title>
+      <link>https://grimbox.be/informatique/mactex/</link>
       <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/informatique/mactex/</guid>
+      <guid>https://grimbox.be/informatique/mactex/</guid>
       <description>MacTeX et compagnie… # A la lecture de l&amp;rsquo;article de la Boîte à Grimoire, je me dis qu&amp;rsquo;il serait bon d&amp;rsquo;aller plus loin concernant la discussion sur LaTeX. Il me semble questionnable de comparer Asciidoctor, LaTeX et Markdown. Pour moi, ces trois environnements de production écrite ne visent pas le même plublique ni les mêmes utilisateurs. L’utilisation de Markdown se prête-t-elle à l’écriture d’articles ou de mémoires scientifiques ? Pas sûr.</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://grimbox.be/informatique/mactex/cover.jpg" />
     </item>
     
   </channel>

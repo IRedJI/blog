@@ -3,27 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://grimbox.be/</loc>
     <lastmod>2024-02-22T19:01:58+01:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/informatique/</loc>
+    <loc>https://grimbox.be/informatique/</loc>
     <lastmod>2024-02-22T19:01:58+01:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/informatique/mactex/</loc>
+    <loc>https://grimbox.be/informatique/mactex/</loc>
     <lastmod>2024-02-22T19:01:58+01:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/bd/</loc>
+    <loc>https://grimbox.be/bd/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/cinema/</loc>
+    <loc>https://grimbox.be/cinema/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/musique/</loc>
+    <loc>https://grimbox.be/musique/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/sport/</loc>
+    <loc>https://grimbox.be/sport/</loc>
   </url>
 </urlset>

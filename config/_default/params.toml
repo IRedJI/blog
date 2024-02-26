@@ -2,3 +2,5 @@ colorScheme = "blowfish"
 
 enableCodeCopy = true
 enableSearch = true
+
+article.showTableOfContents = true

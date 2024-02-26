@@ -1,0 +1,8 @@
+static/processed_images
+node_modules/
+public/
+.DS_Store
+resources/
+static/
+themes/
+.hugo_build.lock
